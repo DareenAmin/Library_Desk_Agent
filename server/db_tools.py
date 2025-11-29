@@ -4,8 +4,6 @@ import sqlite3
 import json
 from typing import List, Dict, Union
 
-# NOTE: Adjust DB_PATH relative to your main.py execution location
-# Since we are running 'python main.py' from inside the /server folder, 
 # '../db/library_desk.db' should correctly point up one directory and into 'db'.
 DB_PATH = '../db/library_desk.db'
 
