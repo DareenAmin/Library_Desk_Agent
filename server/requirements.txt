@@ -1,0 +1,14 @@
+# Core LangChain dependencies
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+
+# Optional: REST API support
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Optional: Additional LLM providers
+# langchain-openai>=0.2.0
+# langchain-anthropic>=0.2.0
